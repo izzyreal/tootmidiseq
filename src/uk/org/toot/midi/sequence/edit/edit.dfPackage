@@ -1,0 +1,174 @@
+package id3zon3e9agl7ife9ajx1qd;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.TrackSelection:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.SequenceSelection:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.CutPasteable:oiref><oihard>
+@__modelType reference
+@backgroundColor 255,255,204 
+*/
+class reference11 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Transpose:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference12 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Transposable:oiref><oihard>
+@__modelType reference
+@backgroundColor 255,255,204 
+*/
+class reference13 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.CutPasteCommand:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference14 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Selection:oiref><oihard>
+@__modelType reference
+@backgroundColor 255,255,204 
+*/
+class reference15 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Paste:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference16 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Cut:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference17 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Copy:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference19 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Move:oiref><oihard>
+@__modelType reference
+@backgroundColor 204,255,204 
+*/
+class reference20 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.MidiTrack:oiref><oihard>
+@__modelType reference
+@__imported
+@backgroundColor 127,127,127
+@hideAll 
+*/
+class reference24 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.MidiSequence:oiref><oihard>
+@__modelType reference
+@__imported
+@backgroundColor 127,127,127
+@hideAll 
+*/
+class reference25 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Editable:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,255,204
+*/
+class reference23 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Moveable:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,255,204
+*/
+class reference1 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequence.edit.Copyable:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,255,204
+*/
+class reference2 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Selection#uk.org.toot.midi.sequence.edit.Copyable:oiref>=279,697,88,548:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Selection:oiref>=233,697,116,117,1:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.edit.Copy#uk.org.toot.midi.sequence.edit.Copyable:oiref>=431,618,431,469:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Copyable#uk.org.toot.midi.sequence.edit.CutPasteable:oiref>=125,447,458,383,458,288:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Move#uk.org.toot.midi.sequence.edit.Copy:oiref>=955,399,955,371:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Copyable#uk.org.toot.midi.sequence.edit.Moveable:oiref>=104,447,104,272:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Copy#uk.org.toot.midi.sequence.edit.MoveOrCopy:oiref>=778,618,778,469:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.CutPasteable#uk.org.toot.midi.sequence.edit.Editable:oiref>=489,171,326,111:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Copy#uk.org.toot.midi.sequence.edit.Move:oiref>=90,1110,90,836:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Copy#selection:oiref>=151,477,15,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Transpose#selection:oiref>=716,477,15,16,0:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.SequenceSelection#sequence:oiref>=391,1264,623,1264,693,958:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Cut#uk.org.toot.midi.sequence.edit.CutPasteCommand:oiref>=466,697,466,605:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Copy#selection:oiref>=240,497,147,497:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.TrackSelection:oiref>=472,922,141,325,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Paste#uk.org.toot.midi.sequence.edit.CutPasteCommand:oiref>=557,697,557,605:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Selection#uk.org.toot.midi.sequence.edit.MoveOrCopyable:oiref>=972,618,1088,466:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequence.edit.Copyable#deepCopy#(##)#:oiref>=1150,590,111,16,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Move#selection:oiref>=188,201,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Copyable:oiref>=30,447,117,101,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Copy:oiref>=240,447,142,190,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.SequenceSelection#sequence:oiref>=674,938,15,16,0:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Transpose#selection:oiref>=805,497,712,497:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.CutPasteCommand:oiref>=422,447,162,158,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Transpose:oiref>=805,447,164,206,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.MidiTrack#sequence:oiref>=807,902,15,16,0:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.Move#selection:oiref>=277,221,184,221:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.MidiTrack:oiref>=693,697,200,46,1:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.edit.SequenceSelection#uk.org.toot.midi.sequence.edit.Selection:oiref>=291,922,291,814:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.CutPasteCommand#selection:oiref>=496,447,496,288:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.MidiTrack#uk.org.toot.midi.sequence.edit.CutPasteable:oiref>=826,697,989,645,989,439,524,288:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Move#uk.org.toot.midi.sequence.edit.MoveOrCopy:oiref>=624,618,802,545,802,469:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Selection#uk.org.toot.midi.sequence.edit.Moveable:oiref>=256,697,10,554,10,458,93,272:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.edit.Move#uk.org.toot.midi.sequence.edit.Moveable:oiref>=1023,618,1023,469:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.TrackSelection#track:oiref>=566,922,759,841,759,743:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Paste:oiref>=531,697,142,165,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.CutPasteable:oiref>=439,171,100,117,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Selection#uk.org.toot.midi.sequence.edit.CutPasteable:oiref>=302,697,402,625,402,443,471,392,471,288:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.CutPasteCommand#selection:oiref>=477,288,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Move:oiref>=277,171,142,222,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Transposable#uk.org.toot.midi.sequence.edit.CutPasteable:oiref>=650,447,510,288:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Cut:oiref>=369,697,142,165,1:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.edit.TrackSelection#uk.org.toot.midi.sequence.edit.Selection:oiref>=519,922,320,861,320,814:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.SequenceSelection:oiref>=191,922,200,373,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Moveable#uk.org.toot.midi.sequence.edit.Editable:oiref>=133,171,296,111:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.MidiTrack#sequence:oiref>=826,743,826,922:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequence.edit.SequenceSelection#clone#(##)#:oiref>=270,950,178,16,1:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequence.MidiTrack#uk.org.toot.midi.sequence.edit.Transposable:oiref>=759,697,670,548:oigroup>
+<oigroup:Composite#clientCardinality#MemberLink#<oiref:java#Member#uk.org.toot.midi.sequence.edit.CutPasteCommand#selection:oiref>=477,427,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Transposable:oiref>=588,447,124,101,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Moveable:oiref>=83,171,101,101,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.midi.sequence.edit.Selection#uk.org.toot.midi.sequence.edit.Transposable:oiref>=325,697,629,562,629,548:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequence.edit.Moveable#move#(#long#int#)#:oiref>=910,470,111,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.edit.Editable:oiref>=266,10,90,101,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequence.MidiSequence:oiref>=693,922,200,46,1:oigroup>
+*/
+class __positions {
+}

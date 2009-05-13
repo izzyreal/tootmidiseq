@@ -1,0 +1,480 @@
+package idi1hudw452ywcdw5268o4;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.GridEditor:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference55 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.RidmView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference56 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.AbstractRidmView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference57 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.RidmVelocityView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference58 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTable:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference59 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTableModel:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference60 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SidePanel:oiref><oihard>
+@__modelType reference 
+*/
+class reference61 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.OpenSequenceUI:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,204,255
+*/
+class reference62 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Viewer:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference66 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SelectTool:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,255,204
+*/
+class reference67 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,255,204
+*/
+class reference68 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ToolPalette:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference69 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.DrawTool:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,255,204
+*/
+class reference70 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EraseTool:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,255,204
+*/
+class reference71 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.HistoryToolBar:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference72 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SelectionToolBar:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference73 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EditToolBar:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference74 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TruncateTool:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,255,204
+*/
+class reference75 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Editor:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference76 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SplitView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference77 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.GridPane:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference78 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.DomainSplitView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference79 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Dividable:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,255,204
+*/
+class reference80 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TimeScrollPane:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference81 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.AbstractPitchView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference82 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewScrollPane:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference83 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PitchVelocityView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference84 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PitchView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference85 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceTimeView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference86 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackEditor:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,204,255
+*/
+class reference87 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceEditor:oiref><oihard>
+@__modelType reference 
+@backgroundColor 204,204,255
+*/
+class reference88 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackPopupMenu:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference91 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SnapCombo:oiref><oihard>
+@__modelType reference 
+*/
+class reference95 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SubView:oiref><oihard>
+@__modelType reference 
+*/
+class reference96 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ScrollView:oiref><oihard>
+@__modelType reference 
+*/
+class reference97 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackView:oiref><oihard>
+@__modelType reference 
+@backgroundColor 255,204,204
+*/
+class reference34 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.MidiFileFilter:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.WorkSpace:oiref><oihard>
+@__modelType reference 
+*/
+class reference28 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceView:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewBar:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.HelixScroller:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.NormalisedDualPoint:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EditBar:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackLabel:oiref><oihard>
+@__modelType reference 
+*/
+class reference13 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTableView:oiref><oihard>
+@__modelType reference 
+*/
+class reference14 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.MarkerCombo:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+@stereotype human interaction
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#paintTrack#(#java.awt.Graphics#int#)#:oiref>=2717,670,0,0,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#ridmVelScrollPane:oiref>=917,2702,2837,3030:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.EditToolBar#toolPalette:oiref>=1835,3010,15,16,0:oigroup>
+<oigroup:BeanProperty#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.WorkSpace#getSequence#(##)#:oiref>=520,389,0,0,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#paintBackground#(#java.awt.Graphics#)#:oiref>=2580,20,178,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.DomainSplitView#uk.org.toot.swingui.midiui.sequenceui.SplitView:oiref>=607,2288,798,1544:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup#isValid#(#uk.org.toot.midi.sequence.MidiTrack#)#:oiref>=1918,630,121,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.MarkerCombo:oiref>=2613,730,154,126,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequencerView#table:oiref>=728,1213,792,1213:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.swingui.midiui.sequenceui.GridPane#uk.org.toot.swingui.midiui.sequenceui.Dividable:oiref>=574,1418,732,675:oigroup>
+<oigroup:Composite#label#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#viewer:oiref>=1454,825,43,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewBar.MarkerPopupMenu:oiref>=412,752,0,0,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#createPopupMenu#(##)#:oiref>=1730,70,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackView.TransportBar:oiref>=820,1430,166,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView:oiref>=2259,1418,171,606,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTableModel:oiref>=235,2288,178,494,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EditBar:oiref>=1110,2288,107,149,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridPane#child:oiref>=550,2268,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PitchView:oiref>=2221,3030,175,238,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.WorkSpace#seqenceUI:oiref>=537,528,364,1450:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceEditor:oiref>=2602,420,157,174,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SnapCombo:oiref>=1860,1418,137,158,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Dividable:oiref>=684,574,119,101,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTableView:oiref>=2441,10,139,142,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#metaColor:oiref>=1830,20,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#fireTableChanged#(##)#:oiref>=800,1430,166,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup#createTrackItem#(#int#)#:oiref>=1888,377,178,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.DrawTool#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref>=1416,3030,1416,2878:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup:oiref>=1900,550,143,133,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#ridmSplitPane:oiref>=877,2364,645,2364:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#ridmSplitPane:oiref>=649,2344,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SelectionToolBar:oiref>=1647,1418,193,334,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackLabel:oiref>=1941,10,200,270,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#openSeq:oiref>=192,1513,259,1513:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar.TopTrackPopup#fillMenu#(##)#:oiref>=382,1007,102,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#saturation#(#int#)#:oiref>=2590,20,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#drawSelectionArea#(#int#int#int#int#java.awt.Point#)#:oiref>=2331,1427,0,0,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar.TopTrackPopup#show#(#java.awt.Component#int#int#)#:oiref>=382,1023,102,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TruncateTool#drawLine#(#java.awt.event.MouseEvent#)#:oiref>=330,2390,151,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.Editor#uk.org.toot.swingui.midiui.sequenceui.Viewer:oiref>=1473,1418,956,1020:oigroup>
+<oigroup:Composite#label#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#musicSplitPane:oiref>=894,1896,139,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup.TrackItem:oiref>=1888,409,178,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SequencerView#uk.org.toot.swingui.midiui.sequenceui.SequenceOpener:oiref>=118,3030,118,2622:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#sideSplitPane:oiref>=2190,2047,2423,1576:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SequenceTimeView#uk.org.toot.swingui.midiui.sequenceui.SequenceView:oiref>=2533,1418,2077,1324:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TimeScrollPane:oiref>=2680,2288,200,190,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#setVisibleTrack#(#int#boolean#)#:oiref>=2590,46,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.GridPane:oiref>=479,1418,191,174,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SelectTool#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref>=1120,3030,1358,2878:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.ViewScrollPane#uk.org.toot.swingui.midiui.sequenceui.TimeScrollPane:oiref>=2856,3030,2856,2478:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridPane#child:oiref>=569,1592,569,2288:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel#uk.org.toot.swingui.midiui.sequenceui.TrackLabel:oiref>=2041,340,2041,280:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#match#(#long#int#int#boolean#)#:oiref>=1940,1070,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#pitchVelScrollPane:oiref>=997,2702,2846,3030:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.TruncateTool#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref>=1279,3030,1387,2878:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.GridEditor:oiref>=877,2288,200,414,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#isValid#(#uk.org.toot.midi.sequence.MidiTrack#)#:oiref>=2640,20,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.EditToolBar#historyTools:oiref>=1817,2367,1724,2367:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackTableView#trackTable:oiref>=2441,81,2361,81:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EraseTool:oiref>=1528,3030,139,117,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#selectionMoved#(#uk.org.toot.midi.sequence.edit.Selection#int#int#int#int#java.awt.Point#)#:oiref>=1940,890,178,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.RidmView#uk.org.toot.swingui.midiui.sequenceui.AbstractRidmView:oiref>=2648,3030,2648,2453:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ToolPalette:oiref>=1692,3030,200,334,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.HelixScroller.TimeScrollBar:oiref>=660,730,166,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.MidiFileFilter:oiref>=2304,730,129,133,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.Editor#tools:oiref>=1480,1672,1895,2288:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.swingui.midiui.sequenceui.SplitView#uk.org.toot.swingui.midiui.sequenceui.Dividable:oiref>=781,1418,781,675:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar.TopTrackPopup#$$constructor$$#(##)#:oiref>=382,991,102,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar#snapCombo:oiref>=462,964,56,2415,56,2925:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EditToolBar:oiref>=1817,2288,156,133,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#viewer:oiref>=1027,825,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup:oiref>=1870,290,200,197,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#pitchSplitPane:oiref>=649,2420,15,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackPopupMenu:oiref>=2782,330,200,197,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.Viewer#sequenceUI:oiref>=889,1020,408,1418:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#isVisibleTrack#(#int#)#:oiref>=2590,30,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewBar.TopTrackPopup.TopTrackItem:oiref>=382,1055,102,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#pitchSplitPane:oiref>=877,2440,645,2440:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ToolPalette#currentTool:oiref>=1782,3030,1474,2878:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SidePanel#openSeqUI:oiref>=306,764,306,1418:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceView:oiref>=1927,574,200,750,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.EditToolBar#toolPalette:oiref>=1854,2421,1854,3030:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.DrawTool:oiref>=1369,3030,139,133,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackTable:oiref>=2161,10,200,302,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewBar.TopTrackPopup:oiref>=380,920,108,165,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#isValid#(#uk.org.toot.midi.sequence.MidiTrack#)#:oiref>=2725,689,0,0,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.EditBar#$$constructor$$#(#uk.org.toot.swingui.midiui.sequenceui.SequenceView#)#:oiref>=2350,1338,141,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.RidmVelocityView#uk.org.toot.swingui.midiui.sequenceui.AbstractRidmView:oiref>=2542,3030,2542,2453:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackLabel#view:oiref>=1556,1526,1974,1396:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SelectionToolBar#editor:oiref>=1647,1553,1567,1553:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.OpenSequenceUI:oiref>=259,1418,200,389,1:oigroup>
+<oigroup:Composite#clientCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ToolPalette#currentTool:oiref>=1723,3010,15,16,0:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.WorkSpace#sequenceUI:oiref>=530,844,357,1418:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.WorkSpace:oiref>=464,574,200,270,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ScrollView:oiref>=2911,10,83,101,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.HistoryToolBar:oiref>=1573,2288,151,238,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.AbstractPitchView:oiref>=2229,2288,196,149,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.DomainSplitView:oiref>=445,2288,200,229,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.EraseTool#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref>=1597,3030,1445,2878:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.GridEditor#uk.org.toot.swingui.midiui.sequenceui.Editor:oiref>=1010,2288,1408,1672:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewBar:oiref>=1212,1418,147,206,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#infoBar:oiref>=810,1430,166,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackEditor:oiref>=2600,10,162,350,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.HelixScroller#view:oiref>=2179,1489,2259,1489:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.OpenSequenceUI#channelTableModel:oiref>=915,1529,1010,1529:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.NormalisedDualPoint:oiref>=2453,730,140,142,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SnapCombo#actionPerformed#(#java.awt.event.ActionEvent#)#:oiref>=20,3030,154,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.EditBar.TopTrackLabel:oiref>=2356,1327,0,0,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Viewer:oiref>=823,574,200,446,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup#$$constructor$$#(#uk.org.toot.swingui.midiui.sequenceui.SequenceView#)#:oiref>=1918,614,121,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#paintComponent#(#java.awt.Graphics#)#:oiref>=2641,31,0,0,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.WorkSpace.TransportBar:oiref>=650,540,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#pitchScrollPane:oiref>=1037,2702,2851,3030:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor.ToolBar:oiref>=1910,1842,0,0,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#uk.org.toot.swingui.midiui.sequenceui.SequenceView:oiref>=2344,1418,2027,1324:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#match#(#uk.org.toot.midi.sequence.MidiTrack#long#int#boolean#)#:oiref>=2291,1427,0,0,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.ViewScrollPane:oiref>=2833,3030,195,126,1:oigroup>
+<oigroup:BeanProperty#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup#getSelectedTrack#(##)#:oiref>=1888,457,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SidePanel:oiref>=203,574,89,101,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#positionIterator#(#long#long#)#:oiref>=650,20,178,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.EditBar#uk.org.toot.swingui.midiui.sequenceui.ViewBar:oiref>=1163,2288,1285,1624:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TruncateTool:oiref>=1210,3030,139,149,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel#view:oiref>=2034,514,2034,574:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.Editor:oiref>=1379,1418,188,254,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.PaletteTool#editor:oiref>=1437,2288,1437,1672:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.PitchVelocityView#uk.org.toot.swingui.midiui.sequenceui.AbstractPitchView:oiref>=2101,3030,2285,2437:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.WorkSpace.ToolBar:oiref>=588,387,0,0,1:oigroup>
+<oigroup:Composite#label#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#pitchSplitPane:oiref>=731,2420,60,16,0:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor#setVisibleTrack#(#int#boolean#)#:oiref>=1787,1852,0,0,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#ridmScrollPane:oiref>=957,2702,2842,3030:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceOpener#openSeq:oiref>=115,2288,314,1839:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#editTrack#(##)#:oiref>=230,300,166,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.AbstractRidmView#uk.org.toot.swingui.midiui.sequenceui.SequenceTimeView:oiref>=2533,2288,2533,2152:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.AbstractRidmView:oiref>=2464,2288,196,165,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.AbstractPitchView#uk.org.toot.swingui.midiui.sequenceui.SequenceTimeView:oiref>=2327,2288,2483,2152:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar#view:oiref>=1285,1418,1952,1324:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ViewBar#mouseExited1#(#java.awt.event.MouseEvent#)#:oiref>=3288,191,0,0,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PaletteTool:oiref>=1330,2288,173,590,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceView.TimePopup:oiref>=1740,70,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#table:oiref>=855,815,836,232:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackView#deleteTrack#(##)#:oiref>=260,310,166,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel:oiref>=1941,340,200,174,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup#view:oiref>=1918,582,121,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup#view:oiref>=2101,682,2101,742:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SequenceEditor#uk.org.toot.swingui.midiui.sequenceui.TrackEditor:oiref>=2680,420,2680,360:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.HelixScroller:oiref>=2017,1418,162,142,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.EditToolBar#selectionTools:oiref>=1950,2288,1743,1752:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SnapCombo#view:oiref>=1977,1418,1977,1324:oigroup>
+<oigroup:Composite#label#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.ToolPalette#currentTool:oiref>=1632,2934,69,16,0:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackView:oiref>=10,1418,158,158,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridPane#view:oiref>=1933,662,1239,408:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#musicSplitPane:oiref>=818,1544,15,16,0:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#paintNote#(#java.awt.Graphics#int#int#long#long#boolean#)#:oiref>=2715,671,0,0,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SubView:oiref>=2147,730,137,190,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#viewer:oiref>=1940,20,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SplitView:oiref>=759,1418,118,126,1:oigroup>
+<oigroup:BeanProperty#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup#getSequence#(##)#:oiref>=1888,441,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.WorkSpace#sidePane:oiref>=464,624,292,624:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#musicSplitPane:oiref>=943,2288,837,1544:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup#isValid#(#uk.org.toot.midi.sequence.MidiTrack#)#:oiref>=1888,361,178,16,1:oigroup>
+<oigroup:Composite#label#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.GridEditor#ridmSplitPane:oiref>=732,2344,59,16,0:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.PitchView#uk.org.toot.swingui.midiui.sequenceui.AbstractPitchView:oiref>=2341,3030,2341,2437:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor:oiref>=2037,2288,172,238,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SequenceTimeView:oiref>=2433,1418,200,734,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.RidmView:oiref>=2636,3030,177,302,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.WorkSpace#splitPane:oiref>=597,844,770,1418:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.SelectTool:oiref>=1051,3030,139,174,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SidePanel#trackTable:oiref>=592,1958,446,232:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#match#(#long#int#)#:oiref>=1940,1090,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.PitchVelocityView:oiref>=2001,3030,200,133,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.TrackView.InfoBar:oiref>=820,1440,166,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceSpiralView#paintTrack1#(#java.awt.Graphics#int#)#:oiref>=2710,770,129,16,1:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor#uk.org.toot.swingui.midiui.sequenceui.Editor:oiref>=2094,2288,1523,1672:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.OpenSequenceUI#trackTableModel:oiref>=336,1807,336,2288:oigroup>
+<oigroup:<oiref:java#Extends#uk.org.toot.swingui.midiui.sequenceui.TopTrackLabel.ViewTrackPopup#uk.org.toot.swingui.midiui.sequenceui.TrackLabel.TrackPopup:oiref>=2130,549,2130,489:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.Editor#tools:oiref>=1863,2268,15,16,0:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#viewer:oiref>=1927,845,1023,845:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.swingui.midiui.sequenceui.RidmVelocityView:oiref>=2416,3030,200,133,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SequenceView#paintSequence#(#java.awt.Graphics#)#:oiref>=2610,20,178,16,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.TimeScrollPane#view:oiref>=2780,2288,2583,2152:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.swingui.midiui.sequenceui.SpiralEditor#view:oiref>=2151,2288,2344,2024:oigroup>
+*/
+class __positions {
+}

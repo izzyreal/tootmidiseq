@@ -1,0 +1,82 @@
+package id9snqf6qjdvynf6qjgf8h;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.Printer:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.EventDispatcher:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.MidiUtils:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.SequencerTrack:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.FastShortMessage:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.JSSecurityManager:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}/**
+@__ref <oiref:java#Class#uk.org.toot.midi.sequencer.MidiSequencer:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#dispatchMessage#(#boolean#javax.sound.midi.MidiEvent#)#:oiref>=38,780,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#chaseEvents#(#long#long#boolean#byte[][]#)#:oiref>=38,796,178,16,1:oigroup>
+<oigroup:BeanProperty#<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#isFinished#(##)#:oiref>=38,908,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack:oiref>=20,620,200,318,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.MidiSequencer:oiref>=225,10,200,926,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.Printer:oiref>=445,10,172,302,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#pump#(#long#boolean#boolean#)#:oiref>=38,828,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#clearNoteOnCache#(##)#:oiref>=38,716,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#createOutputPort#(#java.lang.String#)#:oiref>=38,700,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#sendMessage#(#int#long#)#:oiref>=38,764,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#reindex#(#long#)#:oiref>=38,812,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#notesOff#(#boolean#)#:oiref>=38,732,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.FastShortMessage:oiref>=665,330,141,325,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#outPort:oiref>=38,652,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.JSSecurityManager:oiref>=445,690,200,165,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#sendMessage#(#javax.sound.midi.MidiMessage#long#)#:oiref>=38,748,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#addMetaEventListener#(#javax.sound.midi.MetaEventListener#)#:oiref>=38,844,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#removeMetaEventListener#(#javax.sound.midi.MetaEventListener#)#:oiref>=38,860,178,16,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#noteOnCache:oiref>=38,668,178,16,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.MidiUtils:oiref>=637,10,200,286,1:oigroup>
+<oigroup:<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#sendMetaEvents#(#javax.sound.midi.MidiMessage#)#:oiref>=38,876,178,16,1:oigroup>
+<oigroup:<oiref:java#Implements#uk.org.toot.midi.sequencer.RealTimeSequencer.AbstractSequencerTrack#uk.org.toot.midi.sequencer.SequencerTrack:oiref>=545,299,545,239:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequencer.RealTimeSequencer#eventDispatcher:oiref>=210,121,290,121:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.EventDispatcher:oiref>=10,10,135,222,1:oigroup>
+<oigroup:<oiref:java#Class#uk.org.toot.midi.sequencer.SequencerTrack:oiref>=445,350,200,229,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#uk.org.toot.midi.sequencer.MidiSequencer#eventDispatcher:oiref>=225,121,145,121:oigroup>
+*/
+class __positions {
+}
