@@ -30,7 +30,7 @@ public class MidiSequence extends BasicSequence {
     private MidiEvent tempoEvent;
     private float beatsPerMinute = 120; // default
     private int beatsPerBar = 4; // default
-    private int barDivisions = 4; // default
+//    private int barDivisions = 4; // default
     private ChangeSupport changeSupport;
     private ChangeEvent changeEvent;
     private ChangeSupport structureChangeSupport;
@@ -239,7 +239,7 @@ public class MidiSequence extends BasicSequence {
                         break;
                     case TIME_SIGNATURE: // Time Signature
                         beatsPerBar = getData(msg)[0] & 0xFF;
-                        barDivisions = (1 << (getData(msg)[1] & 0xFF));
+//                        barDivisions = (1 << (getData(msg)[1] & 0xFF));
                         timeSigs.add(ev);
                         break;
                     case MAJOR_MINOR_KEY: // Key and major/minor, useless

@@ -3,7 +3,7 @@
 package uk.org.toot.swingui.midiui.sequenceui;
 
 import uk.org.toot.midi.sequence.MidiSequence;
-import uk.org.toot.midi.sequence.MidiTrack;
+//import uk.org.toot.midi.sequence.MidiTrack;
 
 import java.awt.event.MouseEvent;
 import java.awt.Cursor;
@@ -34,9 +34,9 @@ public class TruncateTool extends PaletteTool {
         if ( e.getSource() == press.getSource() ) {
 //    	    try {
     		    MidiSequence sequence = view.getSequence();
-        		long releaseTick = view.tick(e.getX(), e.getY());
+//        		long releaseTick = view.tick(e.getX(), e.getY());
 //			        int noteval = view.midiy(e.getY());
-        			MidiTrack track = view.getTopTrack();
+//        			MidiTrack track = view.getTopTrack();
 /*	        		MidiTrack track = sequence.getTracks()[trk]; // active track
 	    	    	int chan = track.getChannel();               // track channel
 	    	    	int velocity = 100; // !!!                   // !! previous?
