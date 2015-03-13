@@ -1,0 +1,1 @@
+Somewhere to dump immature code related to Midi sequencing.
